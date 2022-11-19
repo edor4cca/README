@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @edor4cca
+- 👀 I’m interested in IT, anime and manga and sports
+- 🌱 I’m currently learning C language and SQL
+- 📫 How to reach me: edoraccanello@gmail.com
